@@ -1,5 +1,14 @@
 [
   {
+    "name": "aws-lambda-fastify",
+    "versionToPublish": "2.2.0",
+    "license": "MIT",
+    "newModule": {
+      "name": "@fastify/aws-lambda",
+      "version": "3.0.0"
+    }
+  },
+  {
     "name": "fastify-accepts",
     "versionToPublish": "2.2.0",
     "license": "MIT",
