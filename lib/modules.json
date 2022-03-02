@@ -513,7 +513,7 @@
   },
   {
     "name": "fastify-websocket",
-    "versionToPublish": "4.1.0",
+    "versionToPublish": "4.3.0",
     "license": "MIT",
     "newModule": {
       "name": "@fastify/websocket",
