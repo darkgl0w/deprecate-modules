@@ -477,7 +477,7 @@
   },
   {
     "name": "fastify-swagger",
-    "versionToPublish": "4.17.0",
+    "versionToPublish": "4.18.0",
     "license": "MIT",
     "newModule": {
       "name": "@fastify/swagger",
